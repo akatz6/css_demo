@@ -1,0 +1,20 @@
+#adult {
+    background-color: #62dc93;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+}
+
+#child {
+  background-color: #ff1340;
+  height: 200px;
+  width: 40%;
+  border: 3px dotted black;
+  margin: 20% 15% 10px 3em;
+  padding: 5px;
+}
+
+p{
+    text-align: left;
+    font-size: larger;
+}
